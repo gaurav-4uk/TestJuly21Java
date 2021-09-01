@@ -4,6 +4,7 @@ public class BranchATest1 {
 	public static void main(String[] args) {
 		System.out.println("This is Branch A Test 1");
 		System.out.println("Line 6");
-		System.out.println("Line 7");
+		System.out.println("Line 7 aaaaaaaaaaaa");
+		System.out.println("hskjdfffffffffffffffh");
 	}
 }
